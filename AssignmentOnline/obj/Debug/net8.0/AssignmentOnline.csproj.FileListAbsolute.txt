@@ -1,0 +1,14 @@
+C:\Users\karki\RiderProjects\AssignmentOnline\AssignmentOnline\obj\Debug\net8.0\AssignmentOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karki\RiderProjects\AssignmentOnline\AssignmentOnline\obj\Debug\net8.0\AssignmentOnline.AssemblyInfoInputs.cache
+C:\Users\karki\RiderProjects\AssignmentOnline\AssignmentOnline\obj\Debug\net8.0\AssignmentOnline.AssemblyInfo.cs
+C:\Users\karki\RiderProjects\AssignmentOnline\AssignmentOnline\obj\Debug\net8.0\AssignmentOnline.csproj.CoreCompileInputs.cache
+C:\Users\karki\RiderProjects\AssignmentOnline\AssignmentOnline\bin\Debug\net8.0\AssignmentOnline.exe
+C:\Users\karki\RiderProjects\AssignmentOnline\AssignmentOnline\bin\Debug\net8.0\AssignmentOnline.deps.json
+C:\Users\karki\RiderProjects\AssignmentOnline\AssignmentOnline\bin\Debug\net8.0\AssignmentOnline.runtimeconfig.json
+C:\Users\karki\RiderProjects\AssignmentOnline\AssignmentOnline\bin\Debug\net8.0\AssignmentOnline.dll
+C:\Users\karki\RiderProjects\AssignmentOnline\AssignmentOnline\bin\Debug\net8.0\AssignmentOnline.pdb
+C:\Users\karki\RiderProjects\AssignmentOnline\AssignmentOnline\obj\Debug\net8.0\AssignmentOnline.dll
+C:\Users\karki\RiderProjects\AssignmentOnline\AssignmentOnline\obj\Debug\net8.0\refint\AssignmentOnline.dll
+C:\Users\karki\RiderProjects\AssignmentOnline\AssignmentOnline\obj\Debug\net8.0\AssignmentOnline.pdb
+C:\Users\karki\RiderProjects\AssignmentOnline\AssignmentOnline\obj\Debug\net8.0\AssignmentOnline.genruntimeconfig.cache
+C:\Users\karki\RiderProjects\AssignmentOnline\AssignmentOnline\obj\Debug\net8.0\ref\AssignmentOnline.dll
